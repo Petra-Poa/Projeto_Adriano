@@ -1,0 +1,14 @@
+;Arquivo de descricao de esquadrias
+* NAO EDITE ESTE ARQUIVO *
+;Criado por ARQUI_3D em 28/06/2020 as 15:08
+
+VERSAO:2.0
+UNIDADE:mm
+
+CODIGO:P80I
+(900 2150 2150 0 0 0)
+("PORTA" "0" "Interna" "P")
+(50 150 70 40 40 100 200)
+(nil nil)
+(0 ((50 0)(850 0)(850 2100)(50 2100))("PORTA" "Abrir" "1" "Toda Macica" "1" "1"))
+
